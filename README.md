@@ -108,4 +108,4 @@ Which represent the homogeneous and unstructured variances (HVar and UVar), and 
 ## Acknowledgement
 If you use this data in a publication, please cite:
 
-Caballero-Insaurriaga, J., Pineda-Pardo, J. Á., Obeso, I., Oliviero, A. & Foffani, G. Non-invasive modulation of human corticostriatal activity. Proceedings of the National Academy of Sciences of the United States of America (2023)
+J Caballero-Insaurriaga, JA Pineda-Pardo, I Obeso, A Oliviero & G Foffani, Non-invasive modulation of human corticostriatal activity. Proceedings of the National Academy of Sciences of the United States of America (2023) doi: 10.1073/pnas.2219693120
