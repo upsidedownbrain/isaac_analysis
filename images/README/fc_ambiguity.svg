@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="183.73314mm"
-   height="83.039871mm"
-   viewBox="0 0 183.73314 83.039871"
+   width="191.21515mm"
+   height="83.811531mm"
+   viewBox="0 0 191.21515 83.811531"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="fc_ambiguity.svg">
   <defs
      id="defs2">
@@ -260,20 +260,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="277.11636"
-     inkscape:cy="87.61346"
+     inkscape:cx="365.50471"
+     inkscape:cy="82.369163"
      inkscape:document-units="mm"
-     inkscape:current-layer="g2403"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-global="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -291,7 +291,7 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-10.168561,-14.054273)">
+     transform="translate(-10.168561,-13.498674)">
     <g
        id="g2329">
       <g
@@ -998,19 +998,19 @@
            height="29.294424"
            x="70.710678"
            y="26.504173" /></flowRegion><flowPara
-         id="flowPara2206"></flowPara></flowRoot>    <g
+         id="flowPara2206" /></flowRoot>    <g
        id="g2335"
        transform="matrix(0.81450625,0,0,0.81450625,19.274488,18.111235)"
        style="stroke-width:1.22773778">
       <text
          id="text2210"
          y="88.720268"
-         x="43.905872"
+         x="24.243618"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:1;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.32483891"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#808080;fill-opacity:1;stroke-width:0.32483891"
            y="88.720268"
-           x="43.905872"
+           x="24.243618"
            id="tspan2208"
            sodipodi:role="line">Typical approach for FC between regions:</tspan></text>
       <text
