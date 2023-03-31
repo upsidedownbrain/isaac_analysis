@@ -58,7 +58,7 @@ isaac_metrics_all = isaac_concatenate(<isaac_files>, 'dataset_ids', <dataset_ids
 
 ```
 
-In this example we have specified two fields: as_x and as_y. This means that the shared metrics will be computed for all the regions specified by 'as_x' against all the regions specified by 'as_y' (i.e. we would not be interested in comparing region_1 with region_2). One can also run an "all against all" analysis by not specifying these fields. This can also be done for nifti files with the isaac_adapt_files function, provided that the nifti toolbox (https://es.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image).
+In this example we have specified two fields: as_x and as_y. This means that the shared metrics will be computed for all the regions specified by 'as_x' against all the regions specified by 'as_y' (i.e. we would not be interested in comparing region_1 with region_2). One can also run an "all against all" analysis by not specifying these fields. This can also be done for nifti files with the isaac_adapt_files function, provided that the nifti toolbox (https://es.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image) is in the MATLAB path.
 
 Further descriptions of the outputs and additional useful functionalities are documented in the function's help.
 
